@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE318DDD2907A9A2005D4321 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EE318DDC2907A9A2005D4321 /* .gitignore */; };
 		EE33250629060938000DAA83 /* YTDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE33250529060938000DAA83 /* YTDemoApp.swift */; };
 		EE33250829060938000DAA83 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE33250729060938000DAA83 /* ContentView.swift */; };
 		EE33250A29060939000DAA83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE33250929060939000DAA83 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE318DDC2907A9A2005D4321 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		EE33250229060938000DAA83 /* YTDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YTDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE33250529060938000DAA83 /* YTDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YTDemoApp.swift; sourceTree = "<group>"; };
 		EE33250729060938000DAA83 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -43,6 +45,7 @@
 		EE3324F929060938000DAA83 = {
 			isa = PBXGroup;
 			children = (
+				EE318DDC2907A9A2005D4321 /* .gitignore */,
 				EE33250429060938000DAA83 /* YTDemo */,
 				EE33250329060938000DAA83 /* Products */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE33250D29060939000DAA83 /* Preview Assets.xcassets in Resources */,
+				EE318DDD2907A9A2005D4321 /* .gitignore in Resources */,
 				EE33250A29060939000DAA83 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
